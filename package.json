@@ -1,5 +1,5 @@
 {
-  "name": "vue-braintree",
+  "name": "vue-braintree-sl-test",
   "version": "2.2.0",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -24,7 +24,7 @@
     "src"
   ],
   "dependencies": {
-    "braintree-web-drop-in": "^1.31.2",
+    "braintree-web-drop-in": "npm:braintree-web-drop-in-sl-test@^1.33.1",
     "core-js": "^3.17.3"
   },
   "devDependencies": {
